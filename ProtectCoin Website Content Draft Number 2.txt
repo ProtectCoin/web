@@ -1,0 +1,153 @@
+This is a draft of what might be placed on the website ProtectCoin.org when we launch
+
+The ProtectCoin.org website launched today [date].
+
+Q: What is ProtectCoin?
+A: ProtectCoin is a new cryptocurrency which is like bitcoin but with new additional protection. 
+
+Q: Isn't bitcoin a cryptocurrency that is very well protected?
+A: Bitcoin started as a well protected cryptocurrency and to some extent it still is. Bitcoin was technically designed in a way that works but bitcoin is being undermined by people. Bitcoin is in our view in a deliberate process of derailing. We have lost our faith in the future of Bitcoin (Core). The bitcoin system is beeing attacked in several ways. Many people don't see it because they are looking for outright government violence or some other very obvious attack like making bitcoin illegal to use. For people who have learned from the Snowden revelations we are seeing very similar attacks. Some people where called paranoid prior to the Snowden revelations but Snowden proved they were right. For more information read http://bitcoinsteffen.com/the-bitcoin-community-can-learn-important-lessons-from-the-snowden-revelations/ which was written by the founder of this project. We believe attacks on bitcoin are taking place right now in at least four ways:
+1. Censorship and misinformation
+2. Abuse of an antispam feature introduced by Satoshi in 2010 which now instead serves as huge road block for bitcoin
+3. A hopeless/corrupt leadership of Bitcoin Core / Blockstream planning to let a private company (Blockstream), become something like the new FED of bitcoin
+4. DDOS-attacks on those who try to solve the problems by forking the power away from the current Bitcoin leadership
+
+The attackers have not even hid their attack very well. Blockstream is designed to block the stream of bitcoin transactions. Attacker(s) haven't even bothered to use a name which hides the purpose. Our guess is that when that has been accomplished another attacker, BitFury (and others?), will reveal themselves as instruments designed to kill altcoins. See http://www.businesswire.com/news/home/20151204005608/en/White-House-Communicator-Jamie-Smith-joins-BitFury. Why is a White House Communicator working for BitFury? This is what we think we are up against. Who will win this battle is in no way certain yet.
+
+Ad 1: Censorship
+Both the https://bitcoin.org website and the https://www.reddit.com/r/bitcoin subreddit are beeing exposed to serious censership. Here is one recent example: https://forum.bitcoin.com/bitcoin-discussion/now-that-even-coinbase-is-being-censored-from-bitcoin-org-t4313.html. If you want to break free from the deception I suggest using the forums at bitco.in and bitcoin.com. Most of the people writing in these places have taken the red pill. (see https://en.wikipedia.org/wiki/Red_pill_and_blue_pill for explanation.)
+
+Ad 2: Abuse of an antispam feature introduced in 2010 which now instead serves as huge road block for bitcoin
+The 1 MB block size limit was initially created as an anti-spam measure in 2010. This anti-spam feature has now gradually become more like a massive road block / derailment catalyst as the number of daily transactions have grown. The 1 MB block size limit essentially functions as a centrally enforced production quota. A centrally enforced production quota is not compatible with a free market. The enforced production quota will force transactions fees up on the bitcoin mainchain thereby pushing users to sidechain solutions which will probably be proprietary and owned by the private company Blockstream which is funding several of the Bitcoin Core developers. Peter Rizun explained in more detail at the Scaling bitcoin conference in Montreal why the block size limit is unnecessary: https://www.youtube.com/watch?v=ad0Pjj_ms2k. You can also read http://hackingdistributed.com/2015/12/23/bitcoin-fee-market/ by Emin Gün Sirer.
+
+Ad 3: A hopeless leadership 
+The disapperance of Satoshi Nakamoto meant there was no obvious future leader. That has resulted in the leadership being gradually infiltrated with people with very little understanding of economics and/or a low willingness to stick to the original bitcoin vision. This applies especially to the present lead developers of Bitcoin Core. They have not spoken out against the censorship. They have refused to remove the 1 MB roadblock, and they have added additional problems like Replace-by-Fee. The recent Replace-by-fee (RBF) commit to Bitcoin Core is another step towards undermining the usability of mainchain transactions. RBF will make main chain transactions which have not yet been confirmed by a mined block insecure because merchants can be deprived of their payment by a dishonest customer. If this go further it will mean that bitcoin cannot be used safely to for example buy groceries in a supermarket. Read more about RBF at for example https://medium.com/@octskyward/replace-by-fee-43edd9a1dd6d#.hb7b4mqq1.
+
+4. DDOS-attacks on those who try to solve the problems by forking the power away from the current leadership
+The obvious solution to a defunct leadership is to hard fork the power away from them. However, the people who have tried to do so have been exposed to serious DDOS-attacks until they have given up. Here is one recent example: http://www.techworm.net/2015/12/hacker-ddos-coinbase-website-down.html
+
+A good list of articles describing the history of changes bitcoin has been going through can be found at https://bitco.in/forum/threads/gold-collapsing-bitcoin-up.16/page-245#post-9243
+
+Q: Is there more evidence that bitcoin is already infiltrated by Blockstream and/or the US government?
+A: Yes. See this recently released US government sponsored document: http://www.rand.org/content/dam/rand/pubs/research_reports/RR1200/RR1231/RAND_RR1231.pdf. Especially pages 3-12. It describes how a government or organization might successfully technologically disrupt a VC (Virtual Currency) deployment by a non-state actor. The report doesn't seem to worry about bitcoin. Why not? My guess is that the authors of the report know that bitcoin is already infiltrated and will be stopped by the 1 MB block size limit etc.
+
+Q: What is the overall purpose of the ProtectCoin project?
+A: The purpose is to reboot the cryptocurrency space with a cryptocurrency that focuses on strong protection for its users, merchants, and payment processors. We hope this will bring power back into the hands of those people who defend instead of power being in the hands of attackers/predators.  We will also protect the scalability of the project by having no concept of a block size limit. Instead it will be up to each individual miner which transactions to include in each block the miner attempts to create. If a transaction has a size in KB which is deemed to large and/or has a transaction fee which is deemed too small the miner can just choose not to include the transaction in the block it attempts to build. Such transactions will only be accepted by the miner if they are included in a block mined by someone else. We want to become as important for money as Wikipedia is for knowledge traditionally found in an encyclopedia. We will have built-in defences against attackers hiding behind the Tor network, and we will allow an easy migration path for all the people in the bitcoin community who have discovered that the bitcoin project is moving in a wrong direction. To the extent enough people will migrate to ProtectCoin this will send a strong message to those remaining in the bitcoin community: "Fix what isn't working or bitcoin might become the MySpace of cryptocurrencies (From 2005 until 2008, Myspace was the largest social networking site in the world. In April 2008, Myspace was overtaken by Facebook in the number of unique worldwide visitors). Our advice to those trying to fix bitcoin is to attempt to hard fork the power away from Bitcoin Core starting today. Blockstream and all the other attackers can attack some people some of the time but they cannot attack every honest person at the same time. At the very least this ProtectCoin project will teach us all something about the reality of the situation we are in. A hard fork away from Bitcoin Core will in our view lead to two good cryptocurrencies (the mature bitcoin with Bitcoin Core people removed from power and the young ProtectCoin). That would create a future with healthy competition with no single point of failure. Even in that situation we believe we might create the best product because we will have a leadership united in a single vision and we can therefore concentrate on producing a better product instead of having endless discussions about the direction of the product. In a truly free market (without aggression against competitors) the best money will gain more users and the others will loose users.
+
+Q: What software is the ProtectCoin project using?
+A: The software used for ProtectCoin mining is based on the software from the Bitcoin Unlimited project (see http://www.bitcoinunlimited.info/). It was developed by Andrew Stone who has also developed the initial version of our software. To honor that origin we have offered to call our software ProtectCoin Unlimited. 
+
+Q: When did ProtectCoin mining start?
+A: The first ProtectCoin block was mined [date]. We launched silently to get a head start before we had to face potential attackers.
+
+Q: What are the present (technical) differences betwen ProtectCoin and bitcoin dominated by Bitcoin Core?
+A:				Bitcoin									ProtectCoin
+Blockchain creation		January 2009								[date]. ETA mid February 2016
+genesis block message		The Times 03/Jan/2009 Chancellor on brink of second bailout for banks	Depression is the aftermath of credit expansion. Planning for Freedom, Ludwig von Mises, p. 7
+Blocksize limit			1 MB									ProtectCoin has no concept of block size limit.
+Replace-by-fee			Yes (commited to Bitcoin Core master)					No
+Vision				Maybe a proprietary Blockstream-owned payment solution			Free market vision. Transaction fees will be determined by competition among miners and will therfore remain low.
+Name of smallest unit		Satoshi									Nakamoto
+Network listening port		8333									25 because Tor exit nodes rejects all outgoing port 25 (SMTP) traffic. This choice of port will also make ProtectCoin less usefull for truly illegitimate uses like terror financing etc. because the increased transparency / traceability will make hiding more difficult.
+
+Q: What are the similarities between bitcoin and ProtectCoin?
+A: Same maximum number of coins (21 million) and same block reward schedule just with a different start date and a different leadership and focus.
+
+Q: Who is behind ProtectCoin?
+A: The idea was envisioned by Steffen Sølling, a free market proponent living in Denmark. He has a background in finance, economics and IT. Other free market proponents from the bitcoin community have been invited on-board to make sure we will act wisely and have a robust structure and future.
+
+Q: Is ProtectCoin Unlimited open source?
+A: Yes. You can find the source code at [link]
+
+Q: What is the governing structure like?
+A: Anyone can setup a ProtectCoin full node or become a ProtectCoin miner. And any of these participants can choose what software they want to run. All this is just like bitcoin. The governing system for the ProtectCoin Unlimited software is similar to that of a private organisation. Users of ProtectCoin have no direct way of deciding the direction of the ProtectCoin Unlimited software project. Just like a user of a product from Microsoft, Google or Apple has no direct influence. No user can call for a referendum. The power of each user comes from another source, the free choice of whether the user wants to use that particular product or not.
+
+Q: What are your future plans for ProtectCoin?
+A: We want to continually grow and grow by providing the best cryptocurrency based on a vision of free markets and high protection. We want to grow in value, grow in number of transactions, grow in user adoption, grow in number of new use cases like machine-to-machine payments, etc. We will strive to support an unlimited number of mainchain transactions thereby making sure mining is also profitable when block rewards fade away. We will attempt to become the new dominant cryptocurrency. That is an ambitious goal but we believe there is a market opportunity and we have the recipe to reach that goal.
+
+Q: The network effect for Bitcoin is big. Isn't it too late to introduce a bitcoin competitor?
+A: No, similar things were said when bitcoin was introduced. The network effect of the existing fiat currencies would be to great to overcome. Bitcoin showed that a new competitor could enter. We think it will be even easier to switch from bitcoin to ProtectCoin because it will soon become obvious to everyone that bitcoin isn't attractive because it is being undermined by the 1 MB block size limit and RBF. Unless bitcoin changes course we hope it will become the MySpace of cryptocurrencies.
+
+Q: What are your future development plans for ProtectCoin?
+A: We have not yet hammered out a specific roadmap but likely future initiatives might be faster confirmations and reduced orphaning risk by implementing the ideas in this Subchains paper by Peter Rizun: http://www.bitcoinunlimited.info/downloads/subchains.pdf. Another set of possible future improvement might be some of those scalability improvements described by Justus Ranvier in https://bitcoinism.liberty.me/scaling-bitcoin-to-its-first-billion-users-and-beyond-2/.
+
+Q: How is ProtectCoin financed?
+A: Private money from the founders have so far provided all necessary funding. We might in the future ask supporters of our free market money for donations to the project and/or particular subprojects we suggest funding for. At present each person in the project finance his or her own activities. We also believe that users and payment processors will have learned from the failure of Bitcoin Core that the participants in the community will need to engage early in the development and participate with funding.
+
+Q: Why should I support this alt-coin? I am not a great believer in alt-coins. 
+A: Neither are we. However, we don't see the new currency as a traditional alt-coin, but rather an an "org"-coin in that it is not founded on the belief there was a significant technical problem with the original Bitcoin except that Satoshi unfortunately created the 1 MB blocksize limit which has now been turned into the 1MB roadblock / derailment catalyst. We are also different because the new leadership understand free market economics and we want to stick to something close to the original Satoshi vision. You might call ProtectCoin a new Bitcoin hardened against the types of attacks we actually see in the cryptocurrency space and some additional attacks which might become relevant.
+
+Q: Why is this website so primitive/ugly (no beautiful graphics)? 
+A: This website is consisting of only [number] text files to make the webpage very fast to load and therefore much more resistant to Denial of Service (DoS) attacks. The pages are index.html and download.html. In the first few days, weeks or even months this website is almost like a single point of failure for ProtectCoin so this moment might be a good time for you to save the webpage on your local harddrive to have a backup - just in case. Choose something like "Save Webpage as" in your browser if you want a local copy. The ProtectCoin Unlimited software is available through links on the download.html page. [Does anyone know how to upload the files to a good p2p filesharing network an make some torrent/magnet files available?]
+
+Q: Can I cryptographically verify the ProtectCoin Unlimited software?
+A: Yes. You can find SHA-256 (or SHA-512?) hashes of all our downloads on the download.html page. The downloads are also signed by a pgp key which you can also find from the download.html page.
+
+Q: By using tcp port 25 you have prevented legitimate access from Tor. Don't you want to protect the privacy of users?
+A: We are not against privacy but we believe extreme hiding/privacy is more of a liability/threat for cryptocurrencies than it is an asset. Not just because it allow attackers to hide who they are when attacking ProtectCoin but also because many people fear anonymous money. Some of that fear is unfounded but some of it is with good reason. True evil doers like terrorists prefer extreme privacy. By disallowing traffic from Tor we send a signal that ProtectCoin is not suited for them. ProtectCoin is about creating a sound monetary system for a digital era, not about providing hiding places for agressors. In his book "No Place To Hide" Glenn Greenwald wrote (pages 11-12):
+
+"Through Laura [Poitra], I learned a valuable lesson. By the time we first met, in 2010, she had been detained in airports by the Department of Homeland Security more than three dozen times as she entered the United States--interrogated, threatened, her materials seized, including her laptop, cameras, and notebooks. Yet she repeadetly decided not to o public with the relentless harassment, fearing that the repercussions would make her work impossible. That changed after an unusually abusive interrogation at Newark Liberty International Airport. Laura had had enough. "It's getting worse, not better, from my beeing silent." She was ready for me to write about it.
+
+"The article I published in the online political magazine Salon detailing the constant interrogations to which Poitras had been subjected received substantial attention, drawing statements of support and denunciations of the harassment. The next time Poitras flew out of the United States after the article ran, there was no interrogation and she did not have her materials seixed. Over the next couple of months, there was no harassment. for the first time in years, Laura was able to travel freely.
+
+"The lesson for me was clear: national security officials do not like the light. The act abusively and thuggishly only when they believe they are safe, in the dark. Secrecy is the linchpin of abuse of power, we discovered, its enabling force. Transparency is the only real antidote." (quote end).
+
+It is in that context the choise of tcp port 25 must be seen. Using that port will make it much harder for any attacker to hide who he is.
+
+Q: I am a bitcoin miner. I support your vision. What can I do to promote that vision?
+A: You can switch to mining ProtectCoin. The block reward is still 50 ProtectCoin and there is still not much hashing power on the ProtectCoin network.
+
+Q: I am a wallet developer. I support your vision. What can I do to promote that vision?
+A: You can develop a ProtectCoin compatible wallet. To make attacks harder while the ProtectCoin is still small we do not endorse the use of SPV wallets yet. Only fully validating nodes will be recommended by us. That shouldn't be a major problem for any users because the ProtectCoin blockchain is still small and disk space is more plenty that ever before. If/when we grow big we might begin also recommending SPV wallets but not yet.  
+
+Q: I am a wallet developer. What is the procedure for getting recommended by the ProtectCoin project?
+A: 
+Step 1: Write your wallet software. 
+Step 2: Make an agreement about a code review with a person we trust. Currently these people would qualify: Gavin Andresen, Jeff Garzik, Mike Hearn, and Andrew Stone. A positive code review from one of these people will almost certanly lead to our recommendation. At present we will be willing to pay half the price of the code review.
+
+Q: I want to become a user of ProtectCoin. How do I install a wallet?
+A: 
+Step 1: Download and install the ProtectCoin Unlimited software from xxxxx. 
+Step 2: Start the ProtectCoin Unlimited software. 
+Step 3: Use the wallet built into the ProtectCoin Unlimited software. 
+Step 4: Remember to make a backup of your wallet.
+
+Q: I want to become a user of ProtectCoin. Will I need my computer to be accessible from the internet over tcp port 25?
+A: No, but you will contribute to the overall security of the ProtectCoin network if you do because then your machine will also help validate transactions of other users and pass these transactions on to other nodes and ProtectCoin miners. 
+
+Q: I want to strengthen the security of the ProtectCoin network by running a full node. What will I need to do?
+A: You need to do four things: 
+1. Download and install the ProtectCoin Unlimited software from xxxxx. 
+2. Start the ProtectCoin Unlimited software. 
+3. Make your computer accessible from the internet over tcp port 25. For that you will need a public ip address from your ISP (internet Service Provider) and you will have to (ask them to) make sure traffic to tcp port 25 gets sent to your computer. When all these steps have completed and your computer has downloaded and verified the blockchain it will automatically help secure the network.
+4. For optimal protection/participation leave your computer on 24/7.
+
+Q: I own/run an exchange. I support your vision. What can I do to promote that vision?
+A: You can develop a ProtectCoin compatible exchange. 
+You can also use the Bitcoin Unlimited software so bitcoin can have a hard fork which removes power from Bitcoin Core.
+
+Q: I am a payment solution provider. I support your vision. What can I do to promote that vision?
+A: You can develop a ProtectCoin compatible payment solution.  
+You can also use the Bitcoin Unlimited software so bitcoin can have a hard fork which removes power from Bitcoin Core.
+
+Q: I am a merchant. I support your vision. What can I do to promote that vision?
+A: You can start accepting ProtectCoin. If you use a payment provider and that payment provider does not yet support ProtectCoin you can ask them to start supporting ProtectCoin.
+
+Q: I own bitcoin. I support your vision. What can I do to promote that vision?
+A: You have several options. 
+You can sell your bitcoin and buy some ProtectCoin. If your favorite exchange does not yet support ProtectCoin you can ask them to start supporting ProtectCoin. If your favorite wallet provider does not yet have a ProtectCoin wallet you can tell them you would like them to create one. If your favorite merchants do not yet support ProtectCoin you can tell them you would like them to get that support. Most importantly of all, move your use of cryptocurrencies over to ProtectCoin. That is what the system needs to grow.
+To the extent you keep bitcoin you can also promote the use of Bitcoin Unlimited so bitcoin can have a hard fork which removes power from Bitcoin Core.
+
+Q: I am a user. I support your free market vision. Will ProtectCoin be safe for me to use? Will it not risk facing 51% attacks from the people who you claim are trying to derail bitcoin?
+A: The new ProtectCoin will definently risk being attacked. Luke Dashjr who has been employed on occasion by Blockstream, and is a co-author of the sidechains paper supported by Blockstream, and supporter of the socalled roadmap in "Capacity increases for the Bitcoin system scaling" (see https://bitcoin.org/en/bitcoin-core/capacity-increases) deliberately attacked at least one new alt-coin (CoiledCoin) by mining blocks without transactions thereby blocking the confirmation of transaction. That attack killed the fledgling new coin. To protect against that kind of attack and other attacks we have taken extra protective measures. We believe these protection mechanisms will mean that an attacker can not steal your ProtectCoin. An attacker can slow down transaction corfirmation. Early adopters of ProtectCoin should be prepared for a bumpy ride. Attacks should eventually fade away because attacks will be expensive, and will just reveal that what we claim here is true and will just make it even more obvious that the right thing to do is/was to switch away from Bitcoin. Bitcoin with its present Bitcoin Core / Blockstream leadership is no longer about providing a good product for its users. It is about luring users into a new centrally controlled system. Attacks on ProtectCoin will show that the Blockstream pirates know that the future they plan for bitcoin is one where bitcoin can not compete without directly attacking its competitors. On a truly free market the best cryptocurrence wil dominate.
+
+Q: Given the increased risks of attacks how do you suggest I behave as a user?
+A:  Only use the wallet software we recommend. We only recommend that users use fully validating nodes (no SPV clients). 
+We also suggest avoiding large payments, especially to people you do not trust. Do not invest a fortune in ProtectCoin yet but make lots of small ProtectCoin transactions to grow the network and gradually learn how reliable the network is. Also, wait for multiple confirmations before you consider a transaction truly irreversible confirmed. 
+
+Q: I want to become a MiseCoin user but you only offer a ProtectCoin client for traditional computers. There is no smartphone wallet. Why is that?
+A: It is obvious that a smartphone wallet is much more attractive for most use cases because of its mobility. However, we have found that the safest option for the project was to develop the concept in stealth mode to give us a head start so as to minimize the risk of facing well prepared attackers from day 1. That stealth mode operation has meant we haven't got smartphone wallets yet. Now that the project has gone public we expect one or more developers of smartphone wallets (and better desktop wallets) will soon begin development if they share our vision. 
+
+To sum up we call for everyone who is against a blockstream controlled future to act immediately:
+Switch away from Bitcoin Core to bring the free market back to bitcoin and/or switch to ProtectCoin to support a new free market competitor to bitcoin. Blockstream cannot attack everyone at the same time. 
+At the very least this shift will teach us all something about the reality of the situation we are facing. The world of cryptocurrencies need a reboot just like the world of internet communication needed a reboot after the Snowden revelations.
